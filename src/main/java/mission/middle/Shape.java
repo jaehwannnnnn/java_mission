@@ -1,4 +1,4 @@
-package mission;
+package mission.middle;
 
 public abstract class Shape {
     public String type;

@@ -1,6 +1,6 @@
-package mission;
+package mission.middle;
 
-public class RectangleMission {
+public class Mission10 {
     public static void main(String[] args) {
         Rectangle rectangle = new Rectangle(12.3, 13.4);
 

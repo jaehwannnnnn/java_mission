@@ -1,6 +1,4 @@
-package mission;
-
-import javax.xml.namespace.QName;
+package mission.middle;
 
 public class Employee {
     private String name;

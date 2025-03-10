@@ -1,4 +1,4 @@
-package mission;
+package mission.basic;
 
 import java.util.Arrays;
 import java.util.Scanner;

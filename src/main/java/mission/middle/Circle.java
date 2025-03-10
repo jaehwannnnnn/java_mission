@@ -1,4 +1,4 @@
-package mission;
+package mission.middle;
 
 public class Circle extends Shape {
     private double radius;

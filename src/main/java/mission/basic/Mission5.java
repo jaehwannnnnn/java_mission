@@ -1,4 +1,4 @@
-package mission;
+package mission.basic;
 
 public class Mission5 {
     public static void main(String[] args) {

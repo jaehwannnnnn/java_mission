@@ -1,4 +1,4 @@
-package mission;
+package mission.middle;
 
 public class Mission11 {
     public static void main(String[] args) {

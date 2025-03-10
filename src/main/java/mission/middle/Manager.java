@@ -1,4 +1,4 @@
-package mission;
+package mission.middle;
 
 public class Manager extends Employee {
     private String position;

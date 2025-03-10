@@ -1,4 +1,4 @@
-package mission;
+package mission.middle;
 
 public class Square extends Shape {
     private double width;
